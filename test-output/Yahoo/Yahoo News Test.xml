@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="rkagrawal-PC" name="test.YahooNewstest" tests="1" failures="0" timestamp="23 Jan 2016 17:16:00 GMT" time="0.003" errors="0">
+  <testcase name="testNews" time="0.002" classname="test.YahooNewstest"/>
+</testsuite>
